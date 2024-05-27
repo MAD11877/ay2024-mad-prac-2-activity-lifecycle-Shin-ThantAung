@@ -11,4 +11,5 @@ public class User {
         this.id = id;
         this.followed = followed;
     }
+
 }

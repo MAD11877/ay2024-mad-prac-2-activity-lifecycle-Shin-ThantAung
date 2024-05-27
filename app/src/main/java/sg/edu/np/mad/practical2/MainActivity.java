@@ -36,5 +36,4 @@ public class MainActivity extends AppCompatActivity {
         tvDescription.setText(user.description);
         btnFollow.setText("Follow");
     }
-
 }
